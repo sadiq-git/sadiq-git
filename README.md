@@ -68,6 +68,12 @@ the engineering around the model, not the model
 
 ### Currently
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&pause=1400&color=7A7A82&center=true&vCenter=true&width=680&lines=agents+that+read+an+incident+and+propose+a+fix;then+stop+and+wait+for+a+human+to+sign+off;retrieval+scored+for+faithfulness+not+vibes;zero+egress+inference+that+runs+on+the+box" alt="" />
+
+</div>
+
 ```diff
 + NOW    agents that read an incident, ground themselves in the SOPs,
 +        and propose a fix for a human to sign off
@@ -124,12 +130,10 @@ the engineering around the model, not the model
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sadiq-git&show_icons=true&hide_border=true&bg_color=060608&title_color=E8E8EC&text_color=7A7A82&icon_color=E8E8EC" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiq-git&layout=compact&hide_border=true&bg_color=060608&title_color=E8E8EC&text_color=7A7A82" alt="langs" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&pause=1500&color=E8E8EC&center=true&vCenter=true&width=700&lines=the+hub+is+drivable.+arrow+keys+or+WASD.;an+agent+you+cannot+reverse+is+not+finished.;boring.+observable.+repeatable.+in+that+order." alt="" />
 
-<br><br>
+<br>
 
-<sub>The hub is drivable. Arrow keys or WASD.</sub><br>
 <a href="https://sad7q.xyz"><b>sad7q.xyz</b></a>
 
 </div>
